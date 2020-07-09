@@ -9,6 +9,13 @@ Follow the following steps to save all your leetcode solved solutions automatica
 
 3.Log in to your Leetcode account.
 
-PS:You must download firefox webdriver(geckodriver) and it must be present in the same directory as the python file.And you must install selenium.
 
-Go for a coffee and let the magic happen!
+Go for a coffee and 
+let the magic happen!
+
+PS:You must download firefox webdriver(geckodriver)  and it must be present in the same directory as the python file.And you must install selenium(pip install selenium)
+Install firefox webdriver:https://pypi.org/project/geckodriver-autoinstaller/
+
+You may also use any other webdriver but you need to change the code accordingly.
+
+

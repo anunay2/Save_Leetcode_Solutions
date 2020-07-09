@@ -51,7 +51,7 @@ for url in link:
 k=0
 for url in subm:
  	driver.get(url)
- 	driver.implicitly_wait(20)
+ 	driver.implicitly_wait(30)
  	sol=driver.find_elements_by_class_name('ace_line')
  	filename=name[k]+".cpp" 	
  	file=open(filename,"a")
